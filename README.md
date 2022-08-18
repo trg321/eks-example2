@@ -1,2 +1,1 @@
-# eks-example2
-test
+# eks-example
